@@ -86,12 +86,12 @@ GET /recommend?bodytype=hourglass
 ## **Timeline Breakdown**
 | Task | Estimated Duration |
 |-------|------------------|
-| Data Preparation | 1 week |
-| Metadata Inference Model | 2 weeks |
-| Recommendation System | 1 week |
-| API Development | 1 week |
-| Testing & Validation | 1 week |
-| Documentation & Submission | 1 week |
+| Data Preparation | 4 days |
+| Metadata Inference Model | 2 days |
+| Recommendation System | 2 days |
+| API Development | one day |
+| Testing & Validation | one day |
+| Documentation & Submission | 2 days |
 
 ### **Final Notes**
 - **Focus on methodology** rather than perfecting model accuracy.
