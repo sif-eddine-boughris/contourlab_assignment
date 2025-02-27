@@ -98,7 +98,5 @@ GET /recommend?bodytype=hourglass
 - Ensure **code is runnable** with clear instructions.
 - Keep recommendations **female-only** and exclude **accessories**.
 
----
 
-This structured plan ensures that all project requirements are met efficiently while maintaining clarity and scalability. Let me know if you'd like any modifications! 🚀
 
